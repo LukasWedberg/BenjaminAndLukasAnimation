@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8648327e59b7b4249b1d35f7672ecd4b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: fx_textures_glow_materials.unity3d
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330795
+  packageName: Game VFX Mega Pack(URP)
+  packageVersion: 1.03
+  assetPath: Assets/Game VFX Mega Pack(URP)/FX - Weapon Effects(Sword)/Materials/glow_ball2_grey_5.mat
+  uploadId: 844882

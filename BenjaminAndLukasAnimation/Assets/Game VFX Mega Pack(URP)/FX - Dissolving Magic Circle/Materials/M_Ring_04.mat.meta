@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bfb71719e829f4839a95070e9a8a9348
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: fx_textures_ring_materials.unity3d
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330795
+  packageName: Game VFX Mega Pack(URP)
+  packageVersion: 1.03
+  assetPath: Assets/Game VFX Mega Pack(URP)/FX - Dissolving Magic Circle/Materials/M_Ring_04.mat
+  uploadId: 844882

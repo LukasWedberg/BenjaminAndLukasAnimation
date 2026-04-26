@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6a47671123d6b9b4aa00dc69da4af59b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330795
+  packageName: Game VFX Mega Pack(URP)
+  packageVersion: 1.03
+  assetPath: Assets/Game VFX Mega Pack(URP)/FX - Particle Trails/Scene/VFX_Particle
+    Trails/GameObject Profile.asset
+  uploadId: 844882

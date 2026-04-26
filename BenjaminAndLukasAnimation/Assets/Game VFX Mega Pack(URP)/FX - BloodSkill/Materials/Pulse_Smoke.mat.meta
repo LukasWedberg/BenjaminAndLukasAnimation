@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d71131fa769c311499216e3b38296a14
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: fx_textures_shock_materials.unity3d
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330795
+  packageName: Game VFX Mega Pack(URP)
+  packageVersion: 1.03
+  assetPath: Assets/Game VFX Mega Pack(URP)/FX - BloodSkill/Materials/Pulse_Smoke.mat
+  uploadId: 844882

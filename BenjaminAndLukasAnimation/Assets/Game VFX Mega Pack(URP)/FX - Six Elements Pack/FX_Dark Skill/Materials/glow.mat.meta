@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e8ebd9bb546f0bd4bac5e0ef62573c6e
+timeCreated: 1541688380
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330795
+  packageName: Game VFX Mega Pack(URP)
+  packageVersion: 1.03
+  assetPath: Assets/Game VFX Mega Pack(URP)/FX - Six Elements Pack/FX_Dark Skill/Materials/glow.mat
+  uploadId: 844882

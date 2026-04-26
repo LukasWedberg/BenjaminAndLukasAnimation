@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 49dc812de74f4c34eb529e55e31f83c9
+timeCreated: 1533905128
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330795
+  packageName: Game VFX Mega Pack(URP)
+  packageVersion: 1.03
+  assetPath: Assets/Game VFX Mega Pack(URP)/FX - UI/Materials/Particle_Circle_Glow_01.mat
+  uploadId: 844882

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4c86dc9616c5aa149989217db7405251
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: fx_textures_particle_materials.unity3d
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330795
+  packageName: Game VFX Mega Pack(URP)
+  packageVersion: 1.03
+  assetPath: Assets/Game VFX Mega Pack(URP)/FX - Slash/Materials/slash_01_b.mat
+  uploadId: 844882

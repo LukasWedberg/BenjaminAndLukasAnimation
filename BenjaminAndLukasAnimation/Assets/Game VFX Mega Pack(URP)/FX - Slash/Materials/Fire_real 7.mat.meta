@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f86f8ebf497b0a14dbc7416fee10fa06
+timeCreated: 1463388114
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: fx_textures_fire_materials.unity3d
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330795
+  packageName: Game VFX Mega Pack(URP)
+  packageVersion: 1.03
+  assetPath: Assets/Game VFX Mega Pack(URP)/FX - Slash/Materials/Fire_real 7.mat
+  uploadId: 844882
