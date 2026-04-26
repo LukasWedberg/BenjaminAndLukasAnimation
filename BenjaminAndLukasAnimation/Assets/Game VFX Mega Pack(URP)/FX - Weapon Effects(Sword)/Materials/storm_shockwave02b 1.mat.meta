@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 05f94db08191485438404598cd8885a5
+timeCreated: 1530864667
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330795
+  packageName: Game VFX Mega Pack(URP)
+  packageVersion: 1.03
+  assetPath: Assets/Game VFX Mega Pack(URP)/FX - Weapon Effects(Sword)/Materials/storm_shockwave02b
+    1.mat
+  uploadId: 844882

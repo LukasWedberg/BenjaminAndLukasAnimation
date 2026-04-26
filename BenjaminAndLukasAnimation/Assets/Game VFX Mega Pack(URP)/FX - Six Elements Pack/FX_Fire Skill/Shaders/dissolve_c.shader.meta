@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c027d521ec056624fb87fa4829710a92
+timeCreated: 1537015703
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330795
+  packageName: Game VFX Mega Pack(URP)
+  packageVersion: 1.03
+  assetPath: Assets/Game VFX Mega Pack(URP)/FX - Six Elements Pack/FX_Fire Skill/Shaders/dissolve_c.shader
+  uploadId: 844882

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1124cd66fe760bf4d9bcfbcb95843d54
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: fx_textures_rpg_materials.unity3d
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330795
+  packageName: Game VFX Mega Pack(URP)
+  packageVersion: 1.03
+  assetPath: Assets/Game VFX Mega Pack(URP)/FX - Weapon Effects(Sword)/Materials/Soft_Smoke.mat
+  uploadId: 844882

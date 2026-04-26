@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3060b1d9a3f58614483137ea473a56e3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: fx_textures_particle_materials.unity3d
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330795
+  packageName: Game VFX Mega Pack(URP)
+  packageVersion: 1.03
+  assetPath: Assets/Game VFX Mega Pack(URP)/FX - Particle Trails/Materials/vfx_particle_01.mat
+  uploadId: 844882

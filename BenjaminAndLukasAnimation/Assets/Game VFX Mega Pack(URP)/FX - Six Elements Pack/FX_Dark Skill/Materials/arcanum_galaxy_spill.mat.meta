@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5e322256a81452f49a3e1b05b0decd10
+timeCreated: 1519268065
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330795
+  packageName: Game VFX Mega Pack(URP)
+  packageVersion: 1.03
+  assetPath: Assets/Game VFX Mega Pack(URP)/FX - Six Elements Pack/FX_Dark Skill/Materials/arcanum_galaxy_spill.mat
+  uploadId: 844882

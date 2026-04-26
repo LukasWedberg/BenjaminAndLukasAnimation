@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 025ef5affbbf2b64b865042c6c047856
+timeCreated: 1543371730
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: fx_textures_flare_materials.unity3d
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330795
+  packageName: Game VFX Mega Pack(URP)
+  packageVersion: 1.03
+  assetPath: Assets/Game VFX Mega Pack(URP)/FX - Hit/Materials/Background_paticle02_g.mat
+  uploadId: 844882

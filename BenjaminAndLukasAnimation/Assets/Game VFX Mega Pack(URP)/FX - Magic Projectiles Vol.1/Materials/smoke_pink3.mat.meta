@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1a62b972fff5bd4408e79c5c7466981d
+timeCreated: 1531135659
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330795
+  packageName: Game VFX Mega Pack(URP)
+  packageVersion: 1.03
+  assetPath: Assets/Game VFX Mega Pack(URP)/FX - Magic Projectiles Vol.1/Materials/smoke_pink3.mat
+  uploadId: 844882

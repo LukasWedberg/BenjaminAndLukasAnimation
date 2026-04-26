@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 145bae762d8de8f4c8fb1b284128fae7
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330795
+  packageName: Game VFX Mega Pack(URP)
+  packageVersion: 1.03
+  assetPath: Assets/Game VFX Mega Pack(URP)/FX - Dissolving Magic Circle/Shader/Dissolve.shader
+  uploadId: 844882

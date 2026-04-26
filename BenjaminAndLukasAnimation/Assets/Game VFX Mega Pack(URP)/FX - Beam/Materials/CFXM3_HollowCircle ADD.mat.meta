@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 47bc64f6fff8c544db394dc3dc4d72c0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: fx_textures_ring_materials.unity3d
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330795
+  packageName: Game VFX Mega Pack(URP)
+  packageVersion: 1.03
+  assetPath: Assets/Game VFX Mega Pack(URP)/FX - Beam/Materials/CFXM3_HollowCircle
+    ADD.mat
+  uploadId: 844882

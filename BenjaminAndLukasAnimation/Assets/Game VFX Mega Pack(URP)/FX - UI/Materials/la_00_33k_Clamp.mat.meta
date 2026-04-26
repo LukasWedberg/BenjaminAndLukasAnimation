@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bf5fc697f98a905498c13ab16894bd26
+timeCreated: 1465192549
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330795
+  packageName: Game VFX Mega Pack(URP)
+  packageVersion: 1.03
+  assetPath: Assets/Game VFX Mega Pack(URP)/FX - UI/Materials/la_00_33k_Clamp.mat
+  uploadId: 844882

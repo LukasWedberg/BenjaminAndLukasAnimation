@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0c119e1e71d98014ba6208e343bc26ee
+timeCreated: 1445852396
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: fx_textures_glow_materials.unity3d
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330795
+  packageName: Game VFX Mega Pack(URP)
+  packageVersion: 1.03
+  assetPath: Assets/Game VFX Mega Pack(URP)/FX - Hit/Materials/alpha_point_9.mat
+  uploadId: 844882

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3bb5e730d0ab0f74ab1cdfb4a1443ae8
+timeCreated: 1450337742
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330795
+  packageName: Game VFX Mega Pack(URP)
+  packageVersion: 1.03
+  assetPath: Assets/Game VFX Mega Pack(URP)/FX - Hit/Materials/bl_02.mat
+  uploadId: 844882

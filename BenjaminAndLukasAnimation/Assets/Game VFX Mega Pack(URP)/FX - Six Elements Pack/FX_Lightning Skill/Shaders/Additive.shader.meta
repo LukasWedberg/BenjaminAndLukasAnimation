@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a060444ae7a0ff34e8affc4ebd09c0f1
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330795
+  packageName: Game VFX Mega Pack(URP)
+  packageVersion: 1.03
+  assetPath: Assets/Game VFX Mega Pack(URP)/FX - Six Elements Pack/FX_Lightning Skill/Shaders/Additive.shader
+  uploadId: 844882

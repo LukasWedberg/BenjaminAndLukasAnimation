@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b8af4a2088c84040a2ffec652fd6873
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: fx_textures_glow_materials.unity3d
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330795
+  packageName: Game VFX Mega Pack(URP)
+  packageVersion: 1.03
+  assetPath: Assets/Game VFX Mega Pack(URP)/FX - BloodSkill/Materials/glow_point1_red_1.mat
+  uploadId: 844882

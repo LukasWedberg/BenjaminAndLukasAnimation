@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f10e9ac3799f54842be36086a95f441f
+timeCreated: 1532414115
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330795
+  packageName: Game VFX Mega Pack(URP)
+  packageVersion: 1.03
+  assetPath: Assets/Game VFX Mega Pack(URP)/FX - UI&Word_Effect/Materials/monk_waveofLight_trailDiff_damage.mat
+  uploadId: 844882
