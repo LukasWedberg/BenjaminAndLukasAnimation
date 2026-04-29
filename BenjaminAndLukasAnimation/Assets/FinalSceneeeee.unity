@@ -3106,6 +3106,14 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: -0.01600646
       objectReference: {fileID: 0}
+    - target: {fileID: 894228117798310755, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
+      propertyPath: SplineOffset.x
+      value: -4.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 894228117798310755, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
+      propertyPath: SplineOffset.y
+      value: 1.51
+      objectReference: {fileID: 0}
     - target: {fileID: 947762319547395276, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
       propertyPath: m_LocalRotation.w
       value: 0.97957677
@@ -3337,6 +3345,26 @@ PrefabInstance:
     - target: {fileID: 1881727343838685093, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
       propertyPath: m_LocalRotation.z
       value: -0.01066117
+      objectReference: {fileID: 0}
+    - target: {fileID: 1887443389318383948, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.72938323
+      objectReference: {fileID: 0}
+    - target: {fileID: 1887443389318383948, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.047761146
+      objectReference: {fileID: 0}
+    - target: {fileID: 1887443389318383948, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.6809777
+      objectReference: {fileID: 0}
+    - target: {fileID: 1887443389318383948, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.04459148
+      objectReference: {fileID: 0}
+    - target: {fileID: 1957303624489679009, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.8
       objectReference: {fileID: 0}
     - target: {fileID: 1979109591868744275, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3732,31 +3760,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3837024493628562622, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 7.02
+      value: -1.4064941
       objectReference: {fileID: 0}
     - target: {fileID: 3837024493628562622, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.74
+      value: 1.5099993
       objectReference: {fileID: 0}
     - target: {fileID: 3837024493628562622, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.02
+      value: 2.458272
       objectReference: {fileID: 0}
     - target: {fileID: 3837024493628562622, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.7306453
+      value: 0.28625068
       objectReference: {fileID: 0}
     - target: {fileID: 3837024493628562622, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.02094068
+      value: 0.042466953
       objectReference: {fileID: 0}
     - target: {fileID: 3837024493628562622, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.68215597
+      value: 0.9468501
       objectReference: {fileID: 0}
     - target: {fileID: 3837024493628562622, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.019550955
+      value: -0.14047073
       objectReference: {fileID: 0}
     - target: {fileID: 3868334207211195247, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
       propertyPath: m_LocalRotation.w
@@ -4508,12 +4536,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6535895846158727444, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
       propertyPath: m_WarningMessage
-      value: "\nBinding warning: Some generic clip(s) animate transforms that are
-        already bound by a Humanoid avatar. These transforms can only be changed
-        by Humanoid clips.\n\tTransform 'J_Bip_R_Ring2'\n\tTransform 'J_Bip_L_Index3'\n\tTransform
-        'J_Bip_R_Ring3'\n\tTransform 'J_Bip_R_UpperLeg'\n\tTransform 'J_Bip_C_UpperChest'\n\tTransform
-        'J_Bip_R_Middle3'\n\tTransform 'J_Bip_R_LowerArm'\n\tTransform 'J_Bip_L_Middle2'\n\tTransform
-        'J_Bip_L_ToeBase'\n\tTransform 'J_Bip_R_Index3'\n\tand more ..."
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 6574310267821333164, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
       propertyPath: m_LocalPosition.x
