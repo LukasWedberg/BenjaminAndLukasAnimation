@@ -150,7 +150,7 @@ Material:
     - _Cutoff: 0.5
     - _Cutout: 0.4
     - _DepthThreshold: 900
-    - _DirectionalLightIntensity: 0
+    - _DirectionalLightIntensity: 1
     - _DoubleSided: 1
     - _DoubleSidedOutline: 1
     - _DynamicNoisyOutline: 0
@@ -174,7 +174,7 @@ Material:
     - _LigIgnoYNorDir: 0
     - _LightAffectOutlineColor: 0
     - _LightAffectRimLightColor: 0
-    - _LightAffectShadow: 0
+    - _LightAffectShadow: 1
     - _LightFalloffAffectShadowT: 0
     - _LightFalloffSoftness: 1
     - _LightIntensity: 1
@@ -256,7 +256,7 @@ Material:
     - _PASmooTrans: 1
     - _PSGLOTEX: 0
     - _PTexturePower: 1
-    - _PointSpotlightIntensity: 0
+    - _PointSpotlightIntensity: 1
     - _PresAdju: 1
     - _RELG: 1
     - _RQSO: 0
@@ -290,7 +290,7 @@ Material:
     - _ShadingShiftTexScale: 1
     - _ShadingToonyFactor: 0.95
     - _ShadowColorTexturePower: 0
-    - _ShadowHardness: 0
+    - _ShadowHardness: 1
     - _ShadowTColorPower: 1
     - _ShadowTHardness: 1
     - _ShadowTIntensity: 1
@@ -344,7 +344,7 @@ Material:
     - _OutResi: {r: 1, g: 1, b: 1, a: 1}
     - _OutlineColor: {r: 0.07535559, g: 0.008135317, b: 0.015747765, a: 1}
     - _OutlineOffset: {r: 0, g: 0, b: 0, a: 1}
-    - _OverallShadowColor: {r: 0.622795, g: 0.23913874, b: 0.2723101, a: 1}
+    - _OverallShadowColor: {r: 0.4037736, g: 0.18512455, b: 0.008380198, a: 1}
     - _PTCol: {r: 0, g: 0, b: 0, a: 1}
     - _PrevPosition: {r: 0, g: 0, b: 0, a: 0}
     - _RimColor: {r: 0.24999997, g: 0.24999997, b: 0.24999997, a: 1}
