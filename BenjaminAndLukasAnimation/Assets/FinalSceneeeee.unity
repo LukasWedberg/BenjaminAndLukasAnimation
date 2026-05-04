@@ -2728,7 +2728,7 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 1952977954618022739, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
   m_PrefabInstance: {fileID: 1545888715}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
+  m_GameObject: {fileID: 1318812007}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f9dfa5b682dcd46bda6128250e975f58, type: 3}
@@ -3468,6 +3468,28 @@ MonoBehaviour:
       BarrelClipping: 0.25
       Anamorphism: 0
   BlendHint: 0
+--- !u!1 &1318812007 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4729994746447854822, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
+  m_PrefabInstance: {fileID: 1545888715}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1318812013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1318812007}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68bb026fafb42b14791938953eaace77, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.Cinemachine::Unity.Cinemachine.CinemachineBasicMultiChannelPerlin
+  NoiseProfile: {fileID: 11400000, guid: 69ce8388f6785dd4c8c39915efece2f4, type: 2}
+  PivotOffset: {x: 0, y: 0, z: 0}
+  AmplitudeGain: 1
+  FrequencyGain: 2
+  m_NoiseOffsets: {x: 309.33762, y: -115.16394, z: -187.36182}
 --- !u!114 &1346108302 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 736156237647936381, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
@@ -4683,7 +4705,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3837024493628562622, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.37
+      value: 2.3643384
       objectReference: {fileID: 0}
     - target: {fileID: 3837024493628562622, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
       propertyPath: m_LocalPosition.y
@@ -4691,23 +4713,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3837024493628562622, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.02
+      value: -0.19557242
       objectReference: {fileID: 0}
     - target: {fileID: 3837024493628562622, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.73917747
+      value: 0.7660055
       objectReference: {fileID: 0}
     - target: {fileID: 3837024493628562622, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.100248896
+      value: 0.10282233
       objectReference: {fileID: 0}
     - target: {fileID: 3837024493628562622, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.65996635
+      value: -0.6289168
       objectReference: {fileID: 0}
     - target: {fileID: 3837024493628562622, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.08950612
+      value: 0.08442065
       objectReference: {fileID: 0}
     - target: {fileID: 3868334207211195247, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
       propertyPath: m_LocalRotation.w
@@ -6053,6 +6075,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5301348513377344602, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2069847876}
+    - targetCorrespondingSourceObject: {fileID: 4729994746447854822, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1318812013}
   m_SourcePrefab: {fileID: 100100000, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
 --- !u!4 &1545888716 stripped
 Transform:
