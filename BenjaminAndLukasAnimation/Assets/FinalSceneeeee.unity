@@ -3258,7 +3258,7 @@ Transform:
   m_GameObject: {fileID: 1308758776}
   serializedVersion: 2
   m_LocalRotation: {x: 0.16560732, y: 0.7690931, z: 0.03795123, w: -0.616141}
-  m_LocalPosition: {x: 0.515, y: 0.817, z: 0.363}
+  m_LocalPosition: {x: 0.88, y: 0.72, z: 0.46}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3449,7 +3449,7 @@ MonoBehaviour:
     LookAtTarget: {fileID: 0}
     CustomLookAtTarget: 0
   Lens:
-    FieldOfView: 60.000004
+    FieldOfView: 37.2
     OrthographicSize: 5
     NearClipPlane: 0.3
     FarClipPlane: 1000
@@ -4721,7 +4721,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3837024493628562622, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.10282233
+      value: 0.102822326
       objectReference: {fileID: 0}
     - target: {fileID: 3837024493628562622, guid: 2ad3bf84a7fbca647a1529bab9da9c3d, type: 3}
       propertyPath: m_LocalRotation.y
